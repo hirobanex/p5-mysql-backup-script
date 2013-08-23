@@ -1,5 +1,8 @@
+=======
+p5-mysql-backup-script
+======================
 
-
+mysqldump and rsync, copy bin-log and rsync
 
 ## Usage
 
@@ -11,4 +14,3 @@
 - sudoer no passwd setting
 - exec in ubuntu10.04 and like it
 - this script is available ,if service is in initial stage.
-
