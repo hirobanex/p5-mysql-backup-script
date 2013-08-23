@@ -9,6 +9,7 @@ mysqldump and rsync, copy bin-log and rsync
 - install plenv and でperl 5.18.0
 - cpanm Carton
 - carton install --deployment
+- edit config_local.pl to your env
 - exec.sh regist cron and daily exec
 - set host config in .ssh/config
 - sudoer no passwd setting
